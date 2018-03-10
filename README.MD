@@ -1,3 +1,3 @@
 # Sleep Monitoring Device
 
-:point_right: Insert abstract here!! :point_left:
+Somnul este o parte necesara si obligatorie a fiecarei zile din viata noastra, insa exista diferite afectiuni ce pot afecta calitatea acestuia, odihna propriu-zisa, din timpul noptii si pot avea consecinte asupra vietii individului. Un indiciu al calitatii somnului este activitatea motorie sau miscarile pe care le facem in timpul somnului. Un studiu publicat in 2014, face o serie de observatii care arata corelatia dintre afectiuni psihologice si lipsa somnului, cu cresterea miscarilor in timpul somnului, studiu realizat in perioada de copilarie si adolescent ale subiectilor [1]. Astfel, dispozitivul de monitorizare a somnului  masoara si identifica aceasta activitate din timpul somnului. Dispozitivul se bazeaza pe o retea de senzori piezoelectrici care sunt montati in saltea. 

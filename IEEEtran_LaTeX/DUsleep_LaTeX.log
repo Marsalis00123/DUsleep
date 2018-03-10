@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.7)  6 MAR 2018 10:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.7)  10 MAR 2018 11:49
 entering extended mode
 **./DUsleep_LaTeX.tex
 (DUsleep_LaTeX.tex
@@ -824,32 +824,29 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 104.
 
+LaTeX Warning: Citation `childsleep' on page 1 undefined on input line 37.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [1{C:/Users/nicol/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-]
-<fig1.png, id=13, 146.79843pt x 194.22563pt>
+<fig1.png, id=1, 146.79843pt x 194.22563pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 209. on input line 209.
+Package pdftex.def Info: fig1.png  used on input line 68. on input line 68.
 Package pdftex.def Info: Requested size: 146.79807pt x 194.22514pt on input lin
-e 209.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 220.
+e 68.
+(DUsleep_LaTeX.bbl
 
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
-File: omsptm.fd 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \end{thebibliography}
+                          
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 )
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 220.
- [2]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -861,29 +858,30 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3 <./fig1.png>] (DUsleep_LaTeX.aux) ) 
+[1{C:/Users/nicol/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <./fig1.png>] (DUsleep_LaTeX.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4804 strings out of 493312
- 68109 string characters out of 3138900
- 139750 words of memory out of 3000000
- 8242 multiletter control sequences out of 15000+200000
- 51461 words of font info for 102 fonts, out of 3000000 for 9000
+ 4733 strings out of 493312
+ 67302 string characters out of 3138900
+ 135687 words of memory out of 3000000
+ 8183 multiletter control sequences out of 15000+200000
+ 45532 words of font info for 90 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,26p,586b,303s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dv
-ips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
-mb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on DUsleep_LaTeX.pdf (3 pages, 131674 bytes).
+ 41i,13n,26p,837b,303s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/ti
+mes/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on DUsleep_LaTeX.pdf (1 page, 61932 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
